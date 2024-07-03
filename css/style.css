@@ -9,4 +9,7 @@
   --hero_footer-background: #2f303a;
   --our-team: #f5f4fa;
 }
+main > section {
+    color: var(--hero_footer-background);
+}
 
